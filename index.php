@@ -3,4 +3,4 @@
 
 echo '<h1>Super projeto!</h1>';
 
-echo 'Escrevi errado. Perquê é burinha';
+echo 'Escrevi errado. Perquê beem é burinha';
